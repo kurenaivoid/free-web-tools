@@ -8,9 +8,9 @@ https://kurenaivoid.github.io/free-web-tools/
 
 ---
 
-## 🛠️ 公開ツール一覧 (Available Tools)
+## 🛠️ 公開予定ツール一覧 (Available Tools)
 
-現在公開中のツール一覧です。各リンクから直接ブラウザで起動できます。
+公開予定のツール一覧です。各リンクから直接ブラウザで起動できます。
 
 ### 1. [ツール名1（例：テキスト文字数カウント＆整形ツール）]
 * **URL:** https://kurenaivoid.github.io/free-web-tools/tool-name-alpha/
